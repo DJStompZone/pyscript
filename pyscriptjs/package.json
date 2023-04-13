@@ -44,7 +44,7 @@
   "dependencies": {
     "@codemirror/basic-setup": "^0.19.1",
     "@codemirror/lang-python": "^0.19.5",
-    "@codemirror/state": "^0.19.9",
+    "@codemirror/state": "^0.20.1",
     "@codemirror/theme-one-dark": "^0.19.1",
     "@fortawesome/free-solid-svg-icons": "^6.0.0",
     "codemirror": "^5.65.3",
